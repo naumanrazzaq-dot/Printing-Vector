@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778513363 source:d:\umt data\array\vector printing\main.cpp
+	<iostream>
+	<vector>
+
